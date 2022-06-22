@@ -1,0 +1,1 @@
+INSERT INTO usuario (email, nombre, prioridad) VALUES ('pao@gmail.com', 'yy', 1);
